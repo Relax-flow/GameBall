@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/LvL 1.unity
+    guid: 2d0f87dc537e08449bde604dfe9b69d2
+  - enabled: 1
+    path: Assets/Scenes/LvL 2.unity
+    guid: e761c17b3b7fefb46b7d6a26786a610e
+  - enabled: 1
+    path: Assets/Scenes/LvL 3.unity
+    guid: a5ad6a7dca9eac1419bc1af0841c9882
+  - enabled: 1
+    path: Assets/Scenes/LvL 4.unity
+    guid: 933b41985c65b804a8c75e433d1e5b22
+  - enabled: 1
+    path: Assets/Scenes/LvL 5.unity
+    guid: a1f3183871344ad47908114707a3c1b2
+  - enabled: 1
+    path: Assets/Scenes/LvL 6.unity
+    guid: ed2c06a7ebbad774a93e1fecc611e54a
+  - enabled: 1
+    path: Assets/Scenes/LvL 7.unity
+    guid: 0382d83d862db2746b6e1fca8cb46916
+  - enabled: 1
+    path: Assets/Scenes/LvL 8.unity
+    guid: 8619375cb39358546a3e7a7496346a46
+  - enabled: 1
+    path: Assets/Scenes/LvL 9.unity
+    guid: 92075637a9898be439723033aad651fc
+  - enabled: 1
+    path: Assets/Scenes/LvL 10.unity
+    guid: 5758ab128442c2a4397b7b493db40086
+  - enabled: 1
+    path: Assets/Scenes/LvL 11.unity
+    guid: edec35ee6650547478ef2eaf69a98c35
+  - enabled: 1
+    path: Assets/Scenes/LvL 12.unity
+    guid: 596ef83f789d3d04ca7e22120e5a0508
+  - enabled: 1
+    path: Assets/Scenes/LvL 13.unity
+    guid: 4a8fb5c013d6e4a4ca9c088dd2877513
+  - enabled: 1
+    path: Assets/Scenes/LvL 14.unity
+    guid: a7d99f23500425b4b9d5f54833417348
+  - enabled: 1
+    path: Assets/Scenes/LvL 15.unity
+    guid: d49741beec215bd4b9a39c5057ffea2b
+  - enabled: 1
+    path: Assets/Scenes/HowToPlays.unity
+    guid: e58f44689a822474ab3569fe2fbd4b17
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: d2c8720b3d18b6d4c9a4ae0b2e0a482a
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 9662365e64aadaf40967a8f61cff3091
+  - enabled: 1
+    path: Assets/Scenes/LEVELSS.unity
+    guid: c7cc05e2d6df105489b2effd37539733
+  - enabled: 1
+    path: Assets/Scenes/Stats.unity
+    guid: 1856c71bf85b66b4b90591396e5e253c
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 80e40523d597c3849b6b7f9a6c73c731, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e2d188f9494424c4faa41c5888d22aff, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: e8b0cdc0bc0445a4593fe92d6a197bdb, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3c70b3971d1e6de489d294d7e1ee873d, type: 2}
