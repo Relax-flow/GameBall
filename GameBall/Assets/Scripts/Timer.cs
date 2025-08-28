@@ -18,7 +18,7 @@ public class Timer : MonoBehaviour
 
     private float timeTaken;
 
-    void Update()
+    private void Update()
     {
         if (timeLevelCondition != null && timerText != null)
         {
