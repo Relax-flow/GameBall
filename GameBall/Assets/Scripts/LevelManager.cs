@@ -31,9 +31,7 @@ public class LevelManager : MonoBehaviour
         CreateLevelButtons();
     }
 
-
-    //TEST
-   private void CreateLevelButtons()
+    void CreateLevelButtons()
     {
         for (int i = 1; i <= totalLevels; i++)
         {
